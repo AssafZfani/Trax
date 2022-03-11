@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Trax</string>
+
+    // Content Descriptions
+    <string name="add_product_image">Add Product Image</string>
+
+    // Hints
+    <string name="product_name_hint">Product Name</string>
+
+    // Texts
+    <string name="add_image_text">Add Image</string>
+    <string name="update_image_text">Update Image</string>
+    <string name="save_product_text">Save Product</string>
+    <string name="edit_product_text">Edit Product</string>
+    <string name="delete_products">Delete Products</string>
+
+    // Toasts
+    <string name="empty_product_name">The product name cannot be empty</string>
+    <string name="empty_product_category">The product category cannot be empty</string>
+    <string name="empty_product_image">"Select product image"</string>
+    <string name="product_inserted">The product successfully inserted!</string>
+    <string name="product_updated">The product successfully updated!</string>
+    <string name="product_deleted">The product successfully deleted!</string>
+
+    // Categories
+    <string-array name="product_categories">
+        <item>00 - General</item>
+        <item>01 - Sparkling</item>
+        <item>02 - Coffee</item>
+        <item>03 - Juice</item>
+        <item>04 - Sports</item>
+        <item>05 - Vitamin Water</item>
+        <item>06 - Energy</item>
+        <item>07 - Tea</item>
+        <item>08 - Water</item>
+        <item>09 - Flavored Water</item>
+        <item>10 - Sparkling Water</item>
+    </string-array>
+
+    // PicturePickerDialog
+    <string name="picture_picker_title">Add photo</string>
+    <string name="picture_picker_message">Please select an option</string>
+    <string name="picture_picker_camera_btn">Camera</string>
+    <string name="picture_picker_library_btn">Photo Library</string>
+    <string name="picture_picker_cancel_btn">Cancel</string>
+</resources>
